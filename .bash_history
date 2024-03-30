@@ -40,3 +40,34 @@ sudo git –version or git --version
 sudo git –version
 sudo git --version
 git config --global user.name "Jay Tailor"
+git config --global user.email "101413694@georgebrown.ca"
+git config –list
+git config –-list
+git config --list
+gh repo create 101413694_COMP_2156_assignment2
+git repo create 101413694_COMP_2156_assignment2
+git init
+git status
+git commit -m "first commit"
+git remote add origin git@github.com:alexpchin/101413694_COMP_2156_assignment2.git
+git remote add origin git@github.com:JayTailor/101413694_COMP_2156_assignment2.git
+git status
+git add
+git add .
+git push
+git push --set-upstream origin master\
+git push --set-upstream origin master
+git init
+git remote add origin git@github.com:JayTailor/101413694_COMP_2156_assignment2.git
+git remote add origin https://github.com/J-Tailor/101413694_COMP_2156_assignment2.git
+git fetch https://github.com/J-Tailor/101413694_COMP_2156_assignment2.git
+ls
+ls -t
+ls -l
+cd 
+git add 
+git add .
+git push
+git push --set-upstream origin master
+git commit -m "first commit"
+git push --set-upstream origin master
